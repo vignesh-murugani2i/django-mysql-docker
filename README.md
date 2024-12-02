@@ -1,1 +1,1 @@
-"# django-mysql-docker\ndjango crud with mysql using docker and kubernetes\n"
+"# django-mysql-docker\ndjango crud with mysql using docker and kubernetes for new project\n"
